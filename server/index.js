@@ -11,9 +11,9 @@ app.use(express.json());
 
 const con = mysql.createConnection({
 	host:"localhost",
-	user:"root",
-	password:"Root@2140",
-	database:"sfs16july24"
+	user:"****************",
+	password:"**************",
+	database:"***********"
 });
 
 // Set up multer for file uploads
